@@ -8,15 +8,15 @@ Datejs是一个用来操作日期的库，官方网站为datejs.com
 
 下载后插入网页，就可以使用。
 
-<script type="text/javascript" src="date.js"></script>
+\<script type="text/javascript" src="date.js"\>\</script\>
 
 官方还提供多种语言的版本，可以选择使用。
 
 // 美国版
-<script type="text/javascript" src="date-en-US.js"></script>
+\<script type="text/javascript" src="date-en-US.js"\>\</script\>
 
 // 中国版
-<script type="text/javascript" src="date-zh-CN.js"></script>
+\<script type="text/javascript" src="date-zh-CN.js"\>\</script\>
 
 方法
 
